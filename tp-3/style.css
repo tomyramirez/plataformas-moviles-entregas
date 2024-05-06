@@ -1,0 +1,25 @@
+h1{
+    text-align: center !important;
+}
+p{
+    font-family: serif !important;
+}
+#primer-parrafo{
+    background-color: #CEE !important;
+}
+p.importante em{
+    color: #933 !important;
+}
+a{
+    outline: 1px solid #333 !important;
+}
+p.fuente{
+    opacity: 100% !important;
+}
+body p.fuente.parrafo{
+    color: #000 !important;
+}
+.complicado{
+    font-weight: bold !important;
+    color: #C62 !important;
+}
