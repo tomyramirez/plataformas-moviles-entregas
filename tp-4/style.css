@@ -31,3 +31,25 @@
         color:#111;
     }
 }
+@media screen and (hover: none) {
+    a {
+      background-color: #212;
+      padding: 2px 5px;
+    }
+}
+@media screen and (min-width: 800px) and (max-width: 899px) {
+    img {
+      display: none;
+    }
+}
+@media screen and (min-width: 200px) and (max-width: 400px) {
+    img {
+      height: 400px;
+      object-fit: cover;
+    }
+}
+@media screen and (min-resolution: 2dppx) {
+    article {
+      background-color: #667;
+    }
+}  
